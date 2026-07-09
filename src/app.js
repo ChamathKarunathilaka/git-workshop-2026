@@ -12,7 +12,7 @@ const { register, login } = require("./auth");
  * Replace or extend this for hands-on Git exercises.
  */
 function runDemo() {
-  const username = "workshop-user";
+  const username = "workshop_enjfen";
   const password = "securepass123";
 
   const registerResult = register(username, password);
